@@ -33,12 +33,11 @@ public class Snack5 {
 			
 		}
 		avgValue=Float.valueOf(summation)/Float.valueOf(arr.length);
+		
+		
 		System.out.println("minimum value: "+minValue);
-
 		System.out.println("maximum value: "+maxValue);
-
 		System.out.println("avg value: "+avgValue);
-
 		System.out.println("summation value: "+summation);
 
 		
