@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class Snack1 {
 	
+//	Snack1
+//	Inserisci un numero, se è pari stampa il numero, se è dispari stampa il numero successivo.
+	
 	public static void main(String[] args) {
 		
 		
